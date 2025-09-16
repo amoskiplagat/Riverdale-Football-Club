@@ -1,4 +1,4 @@
-# HTML5 Practical (No JS, No Forms)
+# HTML5 Practical 
 
 This project shows basic HTML5 features in a simple sports club website.
 
